@@ -21,6 +21,8 @@ public class JavaApplication4 {
         System.out.println("Hello, world!");
         System.out.println("another line");
         System.out.println("another change");
+        System.out.println("in the next commit, the line below will be deleted");
+        System.out.println("another change");
     }
     
 }
