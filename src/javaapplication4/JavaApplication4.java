@@ -18,6 +18,8 @@ public class JavaApplication4 {
     public static void main(String[] args) {
         // TODO code application logic here
         // comment
+        System.out.println("Hello, world!");
+        System.out.println("another line");
     }
     
 }
